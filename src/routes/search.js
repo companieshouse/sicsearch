@@ -1,11 +1,17 @@
-const { ping } = require("../search");
+const s = require("../search");
 
 const search = (req, res) => {
-  res.send("searching...");
+  s.search(req.query.q)
+    .then(results => {
+      res.json(results);
+    })
+    .catch(() => {
+      res.status(500).send("Error");
+    });
 };
 
 const healthcheck = (req, res) => {
-  ping()
+  s.ping()
     .then(() => res.send("ok"))
     .catch(() => res.status(500).send("down"));
 };

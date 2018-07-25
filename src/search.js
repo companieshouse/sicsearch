@@ -14,6 +14,27 @@ const ping = () => {
   });
 };
 
+const search = term => {
+  return new Promise((resolve, reject) => {
+    client
+      .search({
+        index: "sic-search",
+        type: "sic-code",
+        body: {
+          min_score: 0.2,
+          query: {
+            match: {
+              description: term
+            }
+          }
+        }
+      })
+      .then(resolve)
+      .catch(reject);
+  });
+};
+
 module.exports = {
-  ping
+  ping,
+  search
 };
