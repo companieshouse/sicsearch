@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "analysis": {
+      "filter": {
+        "description_synonym_filter": {
+          "type": "synonym", 
+          "synonyms": [ 
+            "seller,sell,selling,sale,bulk=>wholesale",
+            "shop,selling,store,high street store=>retail",
+            "chair,chairs,table,sofa,bed=>furniture"
+          ]
+        }
+      },
+      "analyzer": {
+        "description_synonyms": {
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "description_synonym_filter" 
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "sic-code": {
+      "properties": {
+        "code": {
+          "type": "text"
+        },
+        "description": {
+          "type": "text",
+          "analyzer": "description_synonyms"
+        }
+      }
+    }
+  }
+}

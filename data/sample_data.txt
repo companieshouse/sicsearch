@@ -1,0 +1,22 @@
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46450"}}
+{"code": "46450", "description": "Wholesale of perfume and cosmetics"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46460"}}
+{"code": "46460", "description": "Wholesale of pharmaceutical goods"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46470"}}
+{"code": "46470", "description": "Wholesale of furniture, carpets and lighting equipment"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46480"}}
+{"code": "46480", "description": "Wholesale of watches and jewellery"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46491"}}
+{"code": "46491", "description": "Wholesale of musical instruments"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46499"}}
+{"code": "46499", "description": "Wholesale of household goods (other than musical instruments) n.e.c."}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46510"}}
+{"code": "46510", "description": "Wholesale of computers, computer peripheral equipment and software"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46520"}}
+{"code": "46520", "description": "Wholesale of electronic and telecommunications equipment and parts"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46610"}}
+{"code": "46610", "description": "Wholesale of agricultural machinery, equipment and supplies"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46620"}}
+{"code": "46620", "description": "Wholesale of machine tools"}
+{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46630"}}
+{"code": "46630", "description": "Wholesale of mining, construction and civil engineering machinery"}
