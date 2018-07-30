@@ -1,22 +1,1462 @@
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46450"}}
-{"code": "46450", "description": "Wholesale of perfume and cosmetics"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46460"}}
-{"code": "46460", "description": "Wholesale of pharmaceutical goods"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46470"}}
-{"code": "46470", "description": "Wholesale of furniture, carpets and lighting equipment"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46480"}}
-{"code": "46480", "description": "Wholesale of watches and jewellery"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46491"}}
-{"code": "46491", "description": "Wholesale of musical instruments"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46499"}}
-{"code": "46499", "description": "Wholesale of household goods (other than musical instruments) n.e.c."}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46510"}}
-{"code": "46510", "description": "Wholesale of computers, computer peripheral equipment and software"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46520"}}
-{"code": "46520", "description": "Wholesale of electronic and telecommunications equipment and parts"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46610"}}
-{"code": "46610", "description": "Wholesale of agricultural machinery, equipment and supplies"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46620"}}
-{"code": "46620", "description": "Wholesale of machine tools"}
-{"index": {"_index": "sic-search", "_type": "sic-code", "_id": "46630"}}
-{"code": "46630", "description": "Wholesale of mining, construction and civil engineering machinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01110"}}
+{"code":"01110","description":"Growing of cereals (except rice), leguminous crops and oil seeds"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01120"}}
+{"code":"01120","description":"Growing of rice"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01130"}}
+{"code":"01130","description":"Growing of vegetables and melons, roots and tubers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01140"}}
+{"code":"01140","description":"Growing of sugar cane"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01150"}}
+{"code":"01150","description":"Growing of tobacco"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01160"}}
+{"code":"01160","description":"Growing of fibre crops"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01190"}}
+{"code":"01190","description":"Growing of other non-perennial crops"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01210"}}
+{"code":"01210","description":"Growing of grapes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01220"}}
+{"code":"01220","description":"Growing of tropical and subtropical fruits"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01230"}}
+{"code":"01230","description":"Growing of citrus fruits"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01240"}}
+{"code":"01240","description":"Growing of pome fruits and stone fruits"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01250"}}
+{"code":"01250","description":"Growing of other tree and bush fruits and nuts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01260"}}
+{"code":"01260","description":"Growing of oleaginous fruits"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01270"}}
+{"code":"01270","description":"Growing of beverage crops"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01280"}}
+{"code":"01280","description":"Growing of spices, aromatic, drug and pharmaceutical crops"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01290"}}
+{"code":"01290","description":"Growing of other perennial crops"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01300"}}
+{"code":"01300","description":"Plant propagation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01410"}}
+{"code":"01410","description":"Raising of dairy cattle"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01420"}}
+{"code":"01420","description":"Raising of other cattle and buffaloes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01430"}}
+{"code":"01430","description":"Raising of horses and other equines"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01440"}}
+{"code":"01440","description":"Raising of camels and camelids"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01450"}}
+{"code":"01450","description":"Raising of sheep and  goats"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01460"}}
+{"code":"01460","description":"Raising of swine/pigs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01470"}}
+{"code":"01470","description":"Raising of poultry"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01490"}}
+{"code":"01490","description":"Raising of other animals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01500"}}
+{"code":"01500","description":"Mixed farming"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01610"}}
+{"code":"01610","description":"Support activities for crop production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01621"}}
+{"code":"01621","description":"Farm animal boarding and care"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01629"}}
+{"code":"01629","description":"Support activities for animal production (other than farm animal boarding and care) n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01630"}}
+{"code":"01630","description":"Post-harvest crop activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01640"}}
+{"code":"01640","description":"Seed processing for propagation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"01700"}}
+{"code":"01700","description":"Hunting, trapping and related service activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"02100"}}
+{"code":"02100","description":"Silviculture and other forestry activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"02200"}}
+{"code":"02200","description":"Logging"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"02300"}}
+{"code":"02300","description":"Gathering of wild growing non-wood products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"02400"}}
+{"code":"02400","description":"Support services to forestry"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"03110"}}
+{"code":"03110","description":"Marine fishing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"03120"}}
+{"code":"03120","description":"Freshwater fishing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"03210"}}
+{"code":"03210","description":"Marine aquaculture"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"03220"}}
+{"code":"03220","description":"Freshwater aquaculture"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"05101"}}
+{"code":"05101","description":"Deep coal mines"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"05102"}}
+{"code":"05102","description":"Open cast coal working"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"05200"}}
+{"code":"05200","description":"Mining of lignite"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"06100"}}
+{"code":"06100","description":"Extraction of crude petroleum"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"06200"}}
+{"code":"06200","description":"Extraction of natural gas"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"07100"}}
+{"code":"07100","description":"Mining of iron ores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"07210"}}
+{"code":"07210","description":"Mining of uranium and thorium ores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"07290"}}
+{"code":"07290","description":"Mining of other non-ferrous metal ores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"08110"}}
+{"code":"08110","description":"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"08120"}}
+{"code":"08120","description":"Operation of gravel and sand pits; mining of clays and kaolin"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"08910"}}
+{"code":"08910","description":"Mining of chemical and fertilizer minerals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"08920"}}
+{"code":"08920","description":"Extraction of peat"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"08930"}}
+{"code":"08930","description":"Extraction of salt"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"08990"}}
+{"code":"08990","description":"Other mining and quarrying n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"09100"}}
+{"code":"09100","description":"Support activities for petroleum and natural gas extraction"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"09900"}}
+{"code":"09900","description":"Support activities for other mining and quarrying"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10110"}}
+{"code":"10110","description":"Processing and preserving of meat"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10120"}}
+{"code":"10120","description":"Processing and preserving of poultry meat"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10130"}}
+{"code":"10130","description":"Production of meat and poultry meat products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10200"}}
+{"code":"10200","description":"Processing and preserving of fish, crustaceans and molluscs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10310"}}
+{"code":"10310","description":"Processing and preserving of potatoes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10320"}}
+{"code":"10320","description":"Manufacture of fruit and vegetable juice"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10390"}}
+{"code":"10390","description":"Other processing and preserving of fruit and vegetables"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10410"}}
+{"code":"10410","description":"Manufacture of oils and fats"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10420"}}
+{"code":"10420","description":"Manufacture of margarine and similar edible fats"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10511"}}
+{"code":"10511","description":"Liquid milk and cream production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10512"}}
+{"code":"10512","description":"Butter and cheese production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10519"}}
+{"code":"10519","description":"Manufacture of other milk products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10520"}}
+{"code":"10520","description":"Manufacture of ice cream"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10611"}}
+{"code":"10611","description":"Grain milling"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10612"}}
+{"code":"10612","description":"Manufacture of breakfast cereals and cereals-based food"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10620"}}
+{"code":"10620","description":"Manufacture of starches and starch products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10710"}}
+{"code":"10710","description":"Manufacture of bread; manufacture of fresh pastry goods and cakes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10720"}}
+{"code":"10720","description":"Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10730"}}
+{"code":"10730","description":"Manufacture of macaroni, noodles, couscous and similar farinaceous products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10810"}}
+{"code":"10810","description":"Manufacture of sugar"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10821"}}
+{"code":"10821","description":"Manufacture of cocoa and chocolate confectionery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10822"}}
+{"code":"10822","description":"Manufacture of sugar confectionery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10831"}}
+{"code":"10831","description":"Tea processing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10832"}}
+{"code":"10832","description":"Production of coffee and coffee substitutes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10840"}}
+{"code":"10840","description":"Manufacture of condiments and seasonings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10850"}}
+{"code":"10850","description":"Manufacture of prepared meals and dishes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10860"}}
+{"code":"10860","description":"Manufacture of homogenized food preparations and dietetic food"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10890"}}
+{"code":"10890","description":"Manufacture of other food products n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10910"}}
+{"code":"10910","description":"Manufacture of prepared feeds for farm animals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"10920"}}
+{"code":"10920","description":"Manufacture of prepared pet foods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11010"}}
+{"code":"11010","description":"Distilling, rectifying and blending of spirits"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11020"}}
+{"code":"11020","description":"Manufacture of wine from grape"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11030"}}
+{"code":"11030","description":"Manufacture of cider and other fruit wines"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11040"}}
+{"code":"11040","description":"Manufacture of other non-distilled fermented beverages"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11050"}}
+{"code":"11050","description":"Manufacture of beer"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11060"}}
+{"code":"11060","description":"Manufacture of malt"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"11070"}}
+{"code":"11070","description":"Manufacture of soft drinks; production of mineral waters and other bottled waters"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"12000"}}
+{"code":"12000","description":"Manufacture of tobacco products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13100"}}
+{"code":"13100","description":"Preparation and spinning of textile fibres"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13200"}}
+{"code":"13200","description":"Weaving of textiles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13300"}}
+{"code":"13300","description":"Finishing of textiles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13910"}}
+{"code":"13910","description":"Manufacture of knitted and crocheted fabrics"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13921"}}
+{"code":"13921","description":"Manufacture of soft furnishings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13922"}}
+{"code":"13922","description":"manufacture of canvas goods, sacks, etc."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13923"}}
+{"code":"13923","description":"manufacture of household textiles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13931"}}
+{"code":"13931","description":"Manufacture of woven or tufted carpets and rugs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13939"}}
+{"code":"13939","description":"Manufacture of other carpets and rugs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13940"}}
+{"code":"13940","description":"Manufacture of cordage, rope, twine and netting"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13950"}}
+{"code":"13950","description":"Manufacture of non-wovens and articles made from non-wovens, except apparel"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13960"}}
+{"code":"13960","description":"Manufacture of other technical and industrial textiles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"13990"}}
+{"code":"13990","description":"Manufacture of other textiles n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14110"}}
+{"code":"14110","description":"Manufacture of leather clothes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14120"}}
+{"code":"14120","description":"Manufacture of workwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14131"}}
+{"code":"14131","description":"Manufacture of other men's outerwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14132"}}
+{"code":"14132","description":"Manufacture of other women's outerwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14141"}}
+{"code":"14141","description":"Manufacture of men's underwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14142"}}
+{"code":"14142","description":"Manufacture of women's underwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14190"}}
+{"code":"14190","description":"Manufacture of other wearing apparel and accessories n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14200"}}
+{"code":"14200","description":"Manufacture of articles of fur"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14310"}}
+{"code":"14310","description":"Manufacture of knitted and crocheted hosiery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"14390"}}
+{"code":"14390","description":"Manufacture of other knitted and crocheted apparel"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"15110"}}
+{"code":"15110","description":"Tanning and dressing of leather; dressing and dyeing of fur"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"15120"}}
+{"code":"15120","description":"Manufacture of luggage, handbags and the like, saddlery and harness"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"15200"}}
+{"code":"15200","description":"Manufacture of footwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"16100"}}
+{"code":"16100","description":"Sawmilling and planing of wood"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"16210"}}
+{"code":"16210","description":"Manufacture of veneer sheets and wood-based panels"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"16220"}}
+{"code":"16220","description":"Manufacture of assembled parquet floors"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"16230"}}
+{"code":"16230","description":"Manufacture of other builders' carpentry and joinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"16240"}}
+{"code":"16240","description":"Manufacture of wooden containers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"16290"}}
+{"code":"16290","description":"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17110"}}
+{"code":"17110","description":"Manufacture of pulp"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17120"}}
+{"code":"17120","description":"Manufacture of paper and paperboard"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17211"}}
+{"code":"17211","description":"Manufacture of corrugated paper and paperboard, sacks and bags"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17219"}}
+{"code":"17219","description":"Manufacture of other paper and paperboard containers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17220"}}
+{"code":"17220","description":"Manufacture of household and sanitary goods and of toilet requisites"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17230"}}
+{"code":"17230","description":"Manufacture of paper stationery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17240"}}
+{"code":"17240","description":"Manufacture of wallpaper"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"17290"}}
+{"code":"17290","description":"Manufacture of other articles of paper and paperboard n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18110"}}
+{"code":"18110","description":"Printing of newspapers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18121"}}
+{"code":"18121","description":"Manufacture of printed labels"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18129"}}
+{"code":"18129","description":"Printing n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18130"}}
+{"code":"18130","description":"Pre-press and pre-media services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18140"}}
+{"code":"18140","description":"Binding and related services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18201"}}
+{"code":"18201","description":"Reproduction of sound recording"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18202"}}
+{"code":"18202","description":"Reproduction of video recording"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"18203"}}
+{"code":"18203","description":"Reproduction of computer media"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"19100"}}
+{"code":"19100","description":"Manufacture of coke oven products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"19201"}}
+{"code":"19201","description":"Mineral oil refining"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"19209"}}
+{"code":"19209","description":"Other treatment of petroleum products (excluding petrochemicals manufacture)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20110"}}
+{"code":"20110","description":"Manufacture of industrial gases"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20120"}}
+{"code":"20120","description":"Manufacture of dyes and pigments"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20130"}}
+{"code":"20130","description":"Manufacture of other inorganic basic chemicals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20140"}}
+{"code":"20140","description":"Manufacture of other organic basic chemicals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20150"}}
+{"code":"20150","description":"Manufacture of fertilizers and nitrogen compounds"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20160"}}
+{"code":"20160","description":"Manufacture of plastics in primary forms"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20170"}}
+{"code":"20170","description":"Manufacture of synthetic rubber in primary forms"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20200"}}
+{"code":"20200","description":"Manufacture of pesticides and other agrochemical products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20301"}}
+{"code":"20301","description":"Manufacture of paints, varnishes and similar coatings, mastics and sealants"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20302"}}
+{"code":"20302","description":"Manufacture of printing ink"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20411"}}
+{"code":"20411","description":"Manufacture of soap and detergents"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20412"}}
+{"code":"20412","description":"Manufacture of cleaning and polishing preparations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20420"}}
+{"code":"20420","description":"Manufacture of perfumes and toilet preparations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20510"}}
+{"code":"20510","description":"Manufacture of explosives"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20520"}}
+{"code":"20520","description":"Manufacture of glues"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20530"}}
+{"code":"20530","description":"Manufacture of essential oils"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20590"}}
+{"code":"20590","description":"Manufacture of other chemical products n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"20600"}}
+{"code":"20600","description":"Manufacture of man-made fibres"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"21100"}}
+{"code":"21100","description":"Manufacture of basic pharmaceutical products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"21200"}}
+{"code":"21200","description":"Manufacture of pharmaceutical preparations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"22110"}}
+{"code":"22110","description":"Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"22190"}}
+{"code":"22190","description":"Manufacture of other rubber products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"22210"}}
+{"code":"22210","description":"Manufacture of plastic plates, sheets, tubes and profiles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"22220"}}
+{"code":"22220","description":"Manufacture of plastic packing goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"22230"}}
+{"code":"22230","description":"Manufacture of builders  ware of plastic"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"22290"}}
+{"code":"22290","description":"Manufacture of other plastic products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23110"}}
+{"code":"23110","description":"Manufacture of flat glass"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23120"}}
+{"code":"23120","description":"Shaping and processing of flat glass"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23130"}}
+{"code":"23130","description":"Manufacture of hollow glass"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23140"}}
+{"code":"23140","description":"Manufacture of glass fibres"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23190"}}
+{"code":"23190","description":"Manufacture and processing of other glass, including technical glassware"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23200"}}
+{"code":"23200","description":"Manufacture of refractory products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23310"}}
+{"code":"23310","description":"Manufacture of ceramic tiles and flags"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23320"}}
+{"code":"23320","description":"Manufacture of bricks, tiles and construction products, in baked clay"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23410"}}
+{"code":"23410","description":"Manufacture of ceramic household and ornamental articles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23420"}}
+{"code":"23420","description":"Manufacture of ceramic sanitary fixtures"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23430"}}
+{"code":"23430","description":"Manufacture of ceramic insulators and insulating fittings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23440"}}
+{"code":"23440","description":"Manufacture of other technical ceramic products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23490"}}
+{"code":"23490","description":"Manufacture of other ceramic products n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23510"}}
+{"code":"23510","description":"Manufacture of cement"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23520"}}
+{"code":"23520","description":"Manufacture of lime and plaster"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23610"}}
+{"code":"23610","description":"Manufacture of concrete products for construction purposes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23620"}}
+{"code":"23620","description":"Manufacture of plaster products for construction purposes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23630"}}
+{"code":"23630","description":"Manufacture of ready-mixed concrete"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23640"}}
+{"code":"23640","description":"Manufacture of mortars"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23650"}}
+{"code":"23650","description":"Manufacture of fibre cement"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23690"}}
+{"code":"23690","description":"Manufacture of other articles of concrete, plaster and cement"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23700"}}
+{"code":"23700","description":"Cutting, shaping and finishing of stone"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23910"}}
+{"code":"23910","description":"Production of abrasive products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"23990"}}
+{"code":"23990","description":"Manufacture of other non-metallic mineral products n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24100"}}
+{"code":"24100","description":"Manufacture of basic iron and steel and of ferro-alloys"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24200"}}
+{"code":"24200","description":"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24310"}}
+{"code":"24310","description":"Cold drawing of bars"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24320"}}
+{"code":"24320","description":"Cold rolling of narrow strip"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24330"}}
+{"code":"24330","description":"Cold forming or folding"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24340"}}
+{"code":"24340","description":"Cold drawing of wire"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24410"}}
+{"code":"24410","description":"Precious metals production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24420"}}
+{"code":"24420","description":"Aluminium production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24430"}}
+{"code":"24430","description":"Lead, zinc and tin production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24440"}}
+{"code":"24440","description":"Copper production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24450"}}
+{"code":"24450","description":"Other non-ferrous metal production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24460"}}
+{"code":"24460","description":"Processing of nuclear fuel"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24510"}}
+{"code":"24510","description":"Casting of iron"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24520"}}
+{"code":"24520","description":"Casting of steel"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24530"}}
+{"code":"24530","description":"Casting of light metals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"24540"}}
+{"code":"24540","description":"Casting of other non-ferrous metals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25110"}}
+{"code":"25110","description":"Manufacture of metal structures and parts of structures"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25120"}}
+{"code":"25120","description":"Manufacture of doors and windows of metal"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25210"}}
+{"code":"25210","description":"Manufacture of central heating radiators and boilers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25290"}}
+{"code":"25290","description":"Manufacture of other tanks, reservoirs and containers of metal"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25300"}}
+{"code":"25300","description":"Manufacture of steam generators, except central heating hot water boilers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25400"}}
+{"code":"25400","description":"Manufacture of weapons and ammunition"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25500"}}
+{"code":"25500","description":"Forging, pressing, stamping and roll-forming of metal; powder metallurgy"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25610"}}
+{"code":"25610","description":"Treatment and coating of metals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25620"}}
+{"code":"25620","description":"Machining"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25710"}}
+{"code":"25710","description":"Manufacture of cutlery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25720"}}
+{"code":"25720","description":"Manufacture of locks and hinges"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25730"}}
+{"code":"25730","description":"Manufacture of tools"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25910"}}
+{"code":"25910","description":"Manufacture of steel drums and similar containers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25920"}}
+{"code":"25920","description":"Manufacture of light metal packaging"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25930"}}
+{"code":"25930","description":"Manufacture of wire products, chain and springs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25940"}}
+{"code":"25940","description":"Manufacture of fasteners and screw machine products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"25990"}}
+{"code":"25990","description":"Manufacture of other fabricated metal products n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26110"}}
+{"code":"26110","description":"Manufacture of electronic components"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26120"}}
+{"code":"26120","description":"Manufacture of loaded electronic boards"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26200"}}
+{"code":"26200","description":"Manufacture of computers and peripheral equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26301"}}
+{"code":"26301","description":"Manufacture of telegraph and telephone apparatus and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26309"}}
+{"code":"26309","description":"Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26400"}}
+{"code":"26400","description":"Manufacture of consumer electronics"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26511"}}
+{"code":"26511","description":"Manufacture of electronic measuring, testing etc. equipment, not for industrial process control"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26512"}}
+{"code":"26512","description":"Manufacture of electronic industrial process control equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26513"}}
+{"code":"26513","description":"Manufacture of non-electronic measuring, testing etc. equipment, not for industrial process control"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26514"}}
+{"code":"26514","description":"Manufacture of non-electronic industrial process control equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26520"}}
+{"code":"26520","description":"Manufacture of watches and clocks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26600"}}
+{"code":"26600","description":"Manufacture of irradiation, electromedical and electrotherapeutic equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26701"}}
+{"code":"26701","description":"Manufacture of optical precision instruments"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26702"}}
+{"code":"26702","description":"Manufacture of photographic and cinematographic equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"26800"}}
+{"code":"26800","description":"Manufacture of magnetic and optical media"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27110"}}
+{"code":"27110","description":"Manufacture of electric motors, generators and transformers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27120"}}
+{"code":"27120","description":"Manufacture of electricity distribution and control apparatus"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27200"}}
+{"code":"27200","description":"Manufacture of batteries and accumulators"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27310"}}
+{"code":"27310","description":"Manufacture of fibre optic cables"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27320"}}
+{"code":"27320","description":"Manufacture of other electronic and electric wires and cables"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27330"}}
+{"code":"27330","description":"Manufacture of wiring devices"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27400"}}
+{"code":"27400","description":"Manufacture of electric lighting equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27510"}}
+{"code":"27510","description":"Manufacture of electric domestic appliances"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27520"}}
+{"code":"27520","description":"Manufacture of non-electric domestic appliances"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"27900"}}
+{"code":"27900","description":"Manufacture of other electrical equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28110"}}
+{"code":"28110","description":"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28120"}}
+{"code":"28120","description":"Manufacture of fluid power equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28131"}}
+{"code":"28131","description":"Manufacture of pumps"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28132"}}
+{"code":"28132","description":"Manufacture of compressors"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28140"}}
+{"code":"28140","description":"Manufacture of taps and valves"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28150"}}
+{"code":"28150","description":"Manufacture of bearings, gears, gearing and driving elements"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28210"}}
+{"code":"28210","description":"Manufacture of ovens, furnaces and furnace burners"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28220"}}
+{"code":"28220","description":"Manufacture of lifting and handling equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28230"}}
+{"code":"28230","description":"Manufacture of office machinery and equipment (except computers and peripheral equipment)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28240"}}
+{"code":"28240","description":"Manufacture of power-driven hand tools"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28250"}}
+{"code":"28250","description":"Manufacture of non-domestic cooling and ventilation equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28290"}}
+{"code":"28290","description":"Manufacture of other general-purpose machinery n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28301"}}
+{"code":"28301","description":"Manufacture of agricultural tractors"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28302"}}
+{"code":"28302","description":"Manufacture of agricultural and forestry machinery other than tractors"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28410"}}
+{"code":"28410","description":"Manufacture of metal forming machinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28490"}}
+{"code":"28490","description":"Manufacture of other machine tools"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28910"}}
+{"code":"28910","description":"Manufacture of machinery for metallurgy"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28921"}}
+{"code":"28921","description":"Manufacture of machinery for mining"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28922"}}
+{"code":"28922","description":"Manufacture of earthmoving equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28923"}}
+{"code":"28923","description":"Manufacture of equipment for concrete crushing and screening and roadworks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28930"}}
+{"code":"28930","description":"Manufacture of machinery for food, beverage and tobacco processing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28940"}}
+{"code":"28940","description":"Manufacture of machinery for textile, apparel and leather production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28950"}}
+{"code":"28950","description":"Manufacture of machinery for paper and paperboard production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28960"}}
+{"code":"28960","description":"Manufacture of plastics and rubber machinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"28990"}}
+{"code":"28990","description":"Manufacture of other special-purpose machinery n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"29100"}}
+{"code":"29100","description":"Manufacture of motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"29201"}}
+{"code":"29201","description":"Manufacture of bodies (coachwork) for motor vehicles (except caravans)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"29202"}}
+{"code":"29202","description":"Manufacture of trailers and semi-trailers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"29203"}}
+{"code":"29203","description":"Manufacture of caravans"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"29310"}}
+{"code":"29310","description":"Manufacture of electrical and electronic equipment for motor vehicles and their engines"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"29320"}}
+{"code":"29320","description":"Manufacture of other parts and accessories for motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30110"}}
+{"code":"30110","description":"Building of ships and floating structures"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30120"}}
+{"code":"30120","description":"Building of pleasure and sporting boats"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30200"}}
+{"code":"30200","description":"Manufacture of railway locomotives and rolling stock"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30300"}}
+{"code":"30300","description":"Manufacture of air and spacecraft and related machinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30400"}}
+{"code":"30400","description":"Manufacture of military fighting vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30910"}}
+{"code":"30910","description":"Manufacture of motorcycles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30920"}}
+{"code":"30920","description":"Manufacture of bicycles and invalid carriages"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"30990"}}
+{"code":"30990","description":"Manufacture of other transport equipment n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"31010"}}
+{"code":"31010","description":"Manufacture of office and shop furniture"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"31020"}}
+{"code":"31020","description":"Manufacture of kitchen furniture"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"31030"}}
+{"code":"31030","description":"Manufacture of mattresses"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"31090"}}
+{"code":"31090","description":"Manufacture of other furniture"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32110"}}
+{"code":"32110","description":"Striking of coins"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32120"}}
+{"code":"32120","description":"Manufacture of jewellery and related articles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32130"}}
+{"code":"32130","description":"Manufacture of imitation jewellery and related articles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32200"}}
+{"code":"32200","description":"Manufacture of musical instruments"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32300"}}
+{"code":"32300","description":"Manufacture of sports goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32401"}}
+{"code":"32401","description":"Manufacture of professional and arcade games and toys"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32409"}}
+{"code":"32409","description":"Manufacture of other games and toys, n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32500"}}
+{"code":"32500","description":"Manufacture of medical and dental instruments and supplies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32910"}}
+{"code":"32910","description":"Manufacture of brooms and brushes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"32990"}}
+{"code":"32990","description":"Other manufacturing n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33110"}}
+{"code":"33110","description":"Repair of fabricated metal products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33120"}}
+{"code":"33120","description":"Repair of machinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33130"}}
+{"code":"33130","description":"Repair of electronic and optical equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33140"}}
+{"code":"33140","description":"Repair of electrical equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33150"}}
+{"code":"33150","description":"Repair and maintenance of ships and boats"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33160"}}
+{"code":"33160","description":"Repair and maintenance of aircraft and spacecraft"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33170"}}
+{"code":"33170","description":"Repair and maintenance of other transport equipment n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33190"}}
+{"code":"33190","description":"Repair of other equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"33200"}}
+{"code":"33200","description":"Installation of industrial machinery and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35110"}}
+{"code":"35110","description":"Production of electricity"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35120"}}
+{"code":"35120","description":"Transmission of electricity"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35130"}}
+{"code":"35130","description":"Distribution of electricity"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35140"}}
+{"code":"35140","description":"Trade of electricity"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35210"}}
+{"code":"35210","description":"Manufacture of gas"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35220"}}
+{"code":"35220","description":"Distribution of gaseous fuels through mains"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35230"}}
+{"code":"35230","description":"Trade of gas through mains"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"35300"}}
+{"code":"35300","description":"Steam and air conditioning supply"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"36000"}}
+{"code":"36000","description":"Water collection, treatment and supply"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"37000"}}
+{"code":"37000","description":"Sewerage"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"38110"}}
+{"code":"38110","description":"Collection of non-hazardous waste"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"38120"}}
+{"code":"38120","description":"Collection of hazardous waste"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"38210"}}
+{"code":"38210","description":"Treatment and disposal of non-hazardous waste"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"38220"}}
+{"code":"38220","description":"Treatment and disposal of hazardous waste"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"38310"}}
+{"code":"38310","description":"Dismantling of wrecks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"38320"}}
+{"code":"38320","description":"Recovery of sorted materials"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"39000"}}
+{"code":"39000","description":"Remediation activities and other waste management services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"41100"}}
+{"code":"41100","description":"Development of building projects"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"41201"}}
+{"code":"41201","description":"Construction of commercial buildings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"41202"}}
+{"code":"41202","description":"Construction of domestic buildings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42110"}}
+{"code":"42110","description":"Construction of roads and motorways"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42120"}}
+{"code":"42120","description":"Construction of railways and underground railways"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42130"}}
+{"code":"42130","description":"Construction of bridges and tunnels"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42210"}}
+{"code":"42210","description":"Construction of utility projects for fluids"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42220"}}
+{"code":"42220","description":"Construction of utility projects for electricity and telecommunications"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42910"}}
+{"code":"42910","description":"Construction of water projects"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"42990"}}
+{"code":"42990","description":"Construction of other civil engineering projects n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43110"}}
+{"code":"43110","description":"Demolition"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43120"}}
+{"code":"43120","description":"Site preparation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43130"}}
+{"code":"43130","description":"Test drilling and boring"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43210"}}
+{"code":"43210","description":"Electrical installation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43220"}}
+{"code":"43220","description":"Plumbing, heat and air-conditioning installation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43290"}}
+{"code":"43290","description":"Other construction installation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43310"}}
+{"code":"43310","description":"Plastering"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43320"}}
+{"code":"43320","description":"Joinery installation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43330"}}
+{"code":"43330","description":"Floor and wall covering"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43341"}}
+{"code":"43341","description":"Painting"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43342"}}
+{"code":"43342","description":"Glazing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43390"}}
+{"code":"43390","description":"Other building completion and finishing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43910"}}
+{"code":"43910","description":"Roofing activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43991"}}
+{"code":"43991","description":"Scaffold erection"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"43999"}}
+{"code":"43999","description":"Other specialised construction activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45111"}}
+{"code":"45111","description":"Sale of new cars and light motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45112"}}
+{"code":"45112","description":"Sale of used cars and light motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45190"}}
+{"code":"45190","description":"Sale of other motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45200"}}
+{"code":"45200","description":"Maintenance and repair of motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45310"}}
+{"code":"45310","description":"Wholesale trade of motor vehicle parts and accessories"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45320"}}
+{"code":"45320","description":"Retail trade of motor vehicle parts and accessories"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"45400"}}
+{"code":"45400","description":"Sale, maintenance and repair of motorcycles and related parts and accessories"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46110"}}
+{"code":"46110","description":"Agents selling agricultural raw materials, livestock, textile raw materials and semi-finished goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46120"}}
+{"code":"46120","description":"Agents involved in the sale of fuels, ores, metals and industrial chemicals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46130"}}
+{"code":"46130","description":"Agents involved in the sale of timber and building materials"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46140"}}
+{"code":"46140","description":"Agents involved in the sale of machinery, industrial equipment, ships and aircraft"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46150"}}
+{"code":"46150","description":"Agents involved in the sale of furniture, household goods, hardware and ironmongery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46160"}}
+{"code":"46160","description":"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46170"}}
+{"code":"46170","description":"Agents involved in the sale of food, beverages and tobacco"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46180"}}
+{"code":"46180","description":"Agents specialized in the sale of other particular products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46190"}}
+{"code":"46190","description":"Agents involved in the sale of a variety of goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46210"}}
+{"code":"46210","description":"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46220"}}
+{"code":"46220","description":"Wholesale of flowers and plants"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46230"}}
+{"code":"46230","description":"Wholesale of live animals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46240"}}
+{"code":"46240","description":"Wholesale of hides, skins and leather"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46310"}}
+{"code":"46310","description":"Wholesale of fruit and vegetables"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46320"}}
+{"code":"46320","description":"Wholesale of meat and meat products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46330"}}
+{"code":"46330","description":"Wholesale of dairy products, eggs and edible oils and fats"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46341"}}
+{"code":"46341","description":"Wholesale of fruit and vegetable juices, mineral water and soft drinks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46342"}}
+{"code":"46342","description":"Wholesale of wine, beer, spirits and other alcoholic beverages"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46350"}}
+{"code":"46350","description":"Wholesale of tobacco products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46360"}}
+{"code":"46360","description":"Wholesale of sugar and chocolate and sugar confectionery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46370"}}
+{"code":"46370","description":"Wholesale of coffee, tea, cocoa and spices"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46380"}}
+{"code":"46380","description":"Wholesale of other food, including fish, crustaceans and molluscs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46390"}}
+{"code":"46390","description":"Non-specialised wholesale of food, beverages and tobacco"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46410"}}
+{"code":"46410","description":"Wholesale of textiles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46420"}}
+{"code":"46420","description":"Wholesale of clothing and footwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46431"}}
+{"code":"46431","description":"Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46439"}}
+{"code":"46439","description":"Wholesale of radio, television goods & electrical household appliances (other than records, tapes, CD's & video tapes and the equipment used for playing them)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46440"}}
+{"code":"46440","description":"Wholesale of china and glassware and cleaning materials"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46450"}}
+{"code":"46450","description":"Wholesale of perfume and cosmetics"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46460"}}
+{"code":"46460","description":"Wholesale of pharmaceutical goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46470"}}
+{"code":"46470","description":"Wholesale of furniture, carpets and lighting equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46480"}}
+{"code":"46480","description":"Wholesale of watches and jewellery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46491"}}
+{"code":"46491","description":"Wholesale of musical instruments"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46499"}}
+{"code":"46499","description":"Wholesale of household goods (other than musical instruments) n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46510"}}
+{"code":"46510","description":"Wholesale of computers, computer peripheral equipment and software"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46520"}}
+{"code":"46520","description":"Wholesale of electronic and telecommunications equipment and parts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46610"}}
+{"code":"46610","description":"Wholesale of agricultural machinery, equipment and supplies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46620"}}
+{"code":"46620","description":"Wholesale of machine tools"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46630"}}
+{"code":"46630","description":"Wholesale of mining, construction and civil engineering machinery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46640"}}
+{"code":"46640","description":"Wholesale of machinery for the textile industry and of sewing and knitting machines"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46650"}}
+{"code":"46650","description":"Wholesale of office furniture"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46660"}}
+{"code":"46660","description":"Wholesale of other office machinery and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46690"}}
+{"code":"46690","description":"Wholesale of other machinery and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46711"}}
+{"code":"46711","description":"Wholesale of petroleum and petroleum products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46719"}}
+{"code":"46719","description":"Wholesale of other fuels and related products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46720"}}
+{"code":"46720","description":"Wholesale of metals and metal ores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46730"}}
+{"code":"46730","description":"Wholesale of wood, construction materials and sanitary equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46740"}}
+{"code":"46740","description":"Wholesale of hardware, plumbing and heating equipment and supplies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46750"}}
+{"code":"46750","description":"Wholesale of chemical products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46760"}}
+{"code":"46760","description":"Wholesale of other intermediate products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46770"}}
+{"code":"46770","description":"Wholesale of waste and scrap"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"46900"}}
+{"code":"46900","description":"Non-specialised wholesale trade"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47110"}}
+{"code":"47110","description":"Retail sale in non-specialised stores with food, beverages or tobacco predominating"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47190"}}
+{"code":"47190","description":"Other retail sale in non-specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47210"}}
+{"code":"47210","description":"Retail sale of fruit and vegetables in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47220"}}
+{"code":"47220","description":"Retail sale of meat and meat products in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47230"}}
+{"code":"47230","description":"Retail sale of fish, crustaceans and molluscs in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47240"}}
+{"code":"47240","description":"Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47250"}}
+{"code":"47250","description":"Retail sale of beverages in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47260"}}
+{"code":"47260","description":"Retail sale of tobacco products in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47290"}}
+{"code":"47290","description":"Other retail sale of food in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47300"}}
+{"code":"47300","description":"Retail sale of automotive fuel in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47410"}}
+{"code":"47410","description":"Retail sale of computers, peripheral units and software in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47421"}}
+{"code":"47421","description":"Retail sale of mobile telephones"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47429"}}
+{"code":"47429","description":"Retail sale of telecommunications equipment other than mobile telephones"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47430"}}
+{"code":"47430","description":"Retail sale of audio and video equipment in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47510"}}
+{"code":"47510","description":"Retail sale of textiles in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47520"}}
+{"code":"47520","description":"Retail sale of hardware, paints and glass in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47530"}}
+{"code":"47530","description":"Retail sale of carpets, rugs, wall and floor coverings in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47540"}}
+{"code":"47540","description":"Retail sale of electrical household appliances in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47591"}}
+{"code":"47591","description":"Retail sale of musical instruments and scores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47599"}}
+{"code":"47599","description":"Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47610"}}
+{"code":"47610","description":"Retail sale of books in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47620"}}
+{"code":"47620","description":"Retail sale of newspapers and stationery in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47630"}}
+{"code":"47630","description":"Retail sale of music and video recordings in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47640"}}
+{"code":"47640","description":"Retail sale of sports goods, fishing gear, camping goods, boats and bicycles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47650"}}
+{"code":"47650","description":"Retail sale of games and toys in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47710"}}
+{"code":"47710","description":"Retail sale of clothing in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47721"}}
+{"code":"47721","description":"Retail sale of footwear in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47722"}}
+{"code":"47722","description":"Retail sale of leather goods in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47730"}}
+{"code":"47730","description":"Dispensing chemist in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47741"}}
+{"code":"47741","description":"Retail sale of hearing aids"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47749"}}
+{"code":"47749","description":"Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47750"}}
+{"code":"47750","description":"Retail sale of cosmetic and toilet articles in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47760"}}
+{"code":"47760","description":"Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47770"}}
+{"code":"47770","description":"Retail sale of watches and jewellery in specialised stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47781"}}
+{"code":"47781","description":"Retail sale in commercial art galleries"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47782"}}
+{"code":"47782","description":"Retail sale by opticians"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47789"}}
+{"code":"47789","description":"Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47791"}}
+{"code":"47791","description":"Retail sale of antiques including antique books in stores"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47799"}}
+{"code":"47799","description":"Retail sale of other second-hand goods in stores (not incl. antiques)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47810"}}
+{"code":"47810","description":"Retail sale via stalls and markets of food, beverages and tobacco products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47820"}}
+{"code":"47820","description":"Retail sale via stalls and markets of textiles, clothing and footwear"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47890"}}
+{"code":"47890","description":"Retail sale via stalls and markets of other goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47910"}}
+{"code":"47910","description":"Retail sale via mail order houses or via Internet"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"47990"}}
+{"code":"47990","description":"Other retail sale not in stores, stalls or markets"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49100"}}
+{"code":"49100","description":"Passenger rail transport, interurban"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49200"}}
+{"code":"49200","description":"Freight rail transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49311"}}
+{"code":"49311","description":"Urban and suburban passenger railway transportation by underground, metro and similar systems"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49319"}}
+{"code":"49319","description":"Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49320"}}
+{"code":"49320","description":"Taxi operation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49390"}}
+{"code":"49390","description":"Other passenger land transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49410"}}
+{"code":"49410","description":"Freight transport by road"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49420"}}
+{"code":"49420","description":"Removal services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"49500"}}
+{"code":"49500","description":"Transport via pipeline"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"50100"}}
+{"code":"50100","description":"Sea and coastal passenger water transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"50200"}}
+{"code":"50200","description":"Sea and coastal freight water transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"50300"}}
+{"code":"50300","description":"Inland passenger water transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"50400"}}
+{"code":"50400","description":"Inland freight water transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"51101"}}
+{"code":"51101","description":"Scheduled passenger air transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"51102"}}
+{"code":"51102","description":"Non-scheduled passenger air transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"51210"}}
+{"code":"51210","description":"Freight air transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"51220"}}
+{"code":"51220","description":"Space transport"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52101"}}
+{"code":"52101","description":"Operation of warehousing and storage facilities for water transport activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52102"}}
+{"code":"52102","description":"Operation of warehousing and storage facilities for air transport activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52103"}}
+{"code":"52103","description":"Operation of warehousing and storage facilities for land transport activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52211"}}
+{"code":"52211","description":"Operation of rail freight terminals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52212"}}
+{"code":"52212","description":"Operation of rail passenger facilities at railway stations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52213"}}
+{"code":"52213","description":"Operation of bus and coach passenger facilities at bus and coach stations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52219"}}
+{"code":"52219","description":"Other service activities incidental to land transportation, n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52220"}}
+{"code":"52220","description":"Service activities incidental to water transportation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52230"}}
+{"code":"52230","description":"Service activities incidental to air transportation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52241"}}
+{"code":"52241","description":"Cargo handling for water transport activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52242"}}
+{"code":"52242","description":"Cargo handling for air transport activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52243"}}
+{"code":"52243","description":"Cargo handling for land transport activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"52290"}}
+{"code":"52290","description":"Other transportation support activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"53100"}}
+{"code":"53100","description":"Postal activities under universal service obligation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"53201"}}
+{"code":"53201","description":"Licensed carriers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"53202"}}
+{"code":"53202","description":"Unlicensed carrier"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"55100"}}
+{"code":"55100","description":"Hotels and similar accommodation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"55201"}}
+{"code":"55201","description":"Holiday centres and villages"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"55202"}}
+{"code":"55202","description":"Youth hostels"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"55209"}}
+{"code":"55209","description":"Other holiday and other collective accommodation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"55300"}}
+{"code":"55300","description":"Recreational vehicle parks, trailer parks and camping grounds"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"55900"}}
+{"code":"55900","description":"Other accommodation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56101"}}
+{"code":"56101","description":"Licensed restaurants"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56102"}}
+{"code":"56102","description":"Unlicensed restaurants and cafes"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56103"}}
+{"code":"56103","description":"Take-away food shops and mobile food stands"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56210"}}
+{"code":"56210","description":"Event catering activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56290"}}
+{"code":"56290","description":"Other food services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56301"}}
+{"code":"56301","description":"Licensed clubs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"56302"}}
+{"code":"56302","description":"Public houses and bars"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58110"}}
+{"code":"58110","description":"Book publishing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58120"}}
+{"code":"58120","description":"Publishing of directories and mailing lists"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58130"}}
+{"code":"58130","description":"Publishing of newspapers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58141"}}
+{"code":"58141","description":"Publishing of learned journals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58142"}}
+{"code":"58142","description":"Publishing of  consumer and business journals and periodicals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58190"}}
+{"code":"58190","description":"Other publishing activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58210"}}
+{"code":"58210","description":"Publishing of computer games"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"58290"}}
+{"code":"58290","description":"Other software publishing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59111"}}
+{"code":"59111","description":"Motion picture production activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59112"}}
+{"code":"59112","description":"Video production activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59113"}}
+{"code":"59113","description":"Television programme production activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59120"}}
+{"code":"59120","description":"Motion picture, video and television programme post-production activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59131"}}
+{"code":"59131","description":"Motion picture distribution activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59132"}}
+{"code":"59132","description":"Video distribution activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59133"}}
+{"code":"59133","description":"Television programme distribution activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59140"}}
+{"code":"59140","description":"Motion picture projection activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"59200"}}
+{"code":"59200","description":"Sound recording and music publishing activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"60100"}}
+{"code":"60100","description":"Radio broadcasting"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"60200"}}
+{"code":"60200","description":"Television programming and broadcasting activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"61100"}}
+{"code":"61100","description":"Wired telecommunications activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"61200"}}
+{"code":"61200","description":"Wireless telecommunications activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"61300"}}
+{"code":"61300","description":"Satellite telecommunications activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"61900"}}
+{"code":"61900","description":"Other telecommunications activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"62011"}}
+{"code":"62011","description":"Ready-made interactive leisure and entertainment software development"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"62012"}}
+{"code":"62012","description":"Business and domestic software development"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"62020"}}
+{"code":"62020","description":"Information technology consultancy activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"62030"}}
+{"code":"62030","description":"Computer facilities management activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"62090"}}
+{"code":"62090","description":"Other information technology service activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"63110"}}
+{"code":"63110","description":"Data processing, hosting and related activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"63120"}}
+{"code":"63120","description":"Web portals"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"63910"}}
+{"code":"63910","description":"News agency activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"63990"}}
+{"code":"63990","description":"Other information service activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64110"}}
+{"code":"64110","description":"Central banking"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64191"}}
+{"code":"64191","description":"Banks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64192"}}
+{"code":"64192","description":"Building societies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64201"}}
+{"code":"64201","description":"Activities of agricultural holding companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64202"}}
+{"code":"64202","description":"Activities of production holding companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64203"}}
+{"code":"64203","description":"Activities of construction holding companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64204"}}
+{"code":"64204","description":"Activities of distribution holding companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64205"}}
+{"code":"64205","description":"Activities of financial services holding companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64209"}}
+{"code":"64209","description":"Activities of other holding companies n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64301"}}
+{"code":"64301","description":"Activities of investment trusts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64302"}}
+{"code":"64302","description":"Activities of unit trusts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64303"}}
+{"code":"64303","description":"Activities of venture and development capital companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64304"}}
+{"code":"64304","description":"Activities of open-ended investment companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64305"}}
+{"code":"64305","description":"Activities of property unit trusts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64306"}}
+{"code":"64306","description":"Activities of real estate investment trusts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64910"}}
+{"code":"64910","description":"Financial leasing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64921"}}
+{"code":"64921","description":"Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64922"}}
+{"code":"64922","description":"Activities of mortgage finance companies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64929"}}
+{"code":"64929","description":"Other credit granting n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64991"}}
+{"code":"64991","description":"Security dealing on own account"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64992"}}
+{"code":"64992","description":"Factoring"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"64999"}}
+{"code":"64999","description":"Financial intermediation not elsewhere classified"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"65110"}}
+{"code":"65110","description":"Life insurance"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"65120"}}
+{"code":"65120","description":"Non-life insurance"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"65201"}}
+{"code":"65201","description":"Life reinsurance"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"65202"}}
+{"code":"65202","description":"Non-life reinsurance"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"65300"}}
+{"code":"65300","description":"Pension funding"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66110"}}
+{"code":"66110","description":"Administration of financial markets"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66120"}}
+{"code":"66120","description":"Security and commodity contracts dealing activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66190"}}
+{"code":"66190","description":"Activities auxiliary to financial intermediation n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66210"}}
+{"code":"66210","description":"Risk and damage evaluation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66220"}}
+{"code":"66220","description":"Activities of insurance agents and brokers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66290"}}
+{"code":"66290","description":"Other activities auxiliary to insurance and pension funding"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"66300"}}
+{"code":"66300","description":"Fund management activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"68100"}}
+{"code":"68100","description":"Buying and selling of own real estate"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"68201"}}
+{"code":"68201","description":"Renting and operating of Housing Association real estate"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"68202"}}
+{"code":"68202","description":"Letting and operating of conference and exhibition centres"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"68209"}}
+{"code":"68209","description":"Other letting and operating of own or leased real estate"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"68310"}}
+{"code":"68310","description":"Real estate agencies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"68320"}}
+{"code":"68320","description":"Management of real estate on a fee or contract basis"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"69101"}}
+{"code":"69101","description":"Barristers at law"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"69102"}}
+{"code":"69102","description":"Solicitors"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"69109"}}
+{"code":"69109","description":"Activities of patent and copyright agents; other legal activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"69201"}}
+{"code":"69201","description":"Accounting and auditing activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"69202"}}
+{"code":"69202","description":"Bookkeeping activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"69203"}}
+{"code":"69203","description":"Tax consultancy"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"70100"}}
+{"code":"70100","description":"Activities of head offices"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"70210"}}
+{"code":"70210","description":"Public relations and communications activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"70221"}}
+{"code":"70221","description":"Financial management"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"70229"}}
+{"code":"70229","description":"Management consultancy activities other than financial management"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"71111"}}
+{"code":"71111","description":"Architectural activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"71112"}}
+{"code":"71112","description":"Urban planning and landscape architectural activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"71121"}}
+{"code":"71121","description":"Engineering design activities for industrial process and production"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"71122"}}
+{"code":"71122","description":"Engineering related scientific and technical consulting activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"71129"}}
+{"code":"71129","description":"Other engineering activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"71200"}}
+{"code":"71200","description":"Technical testing and analysis"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"72110"}}
+{"code":"72110","description":"Research and experimental development on biotechnology"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"72190"}}
+{"code":"72190","description":"Other research and experimental development on natural sciences and engineering"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"72200"}}
+{"code":"72200","description":"Research and experimental development on social sciences and humanities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"73110"}}
+{"code":"73110","description":"Advertising agencies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"73120"}}
+{"code":"73120","description":"Media representation services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"73200"}}
+{"code":"73200","description":"Market research and public opinion polling"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74100"}}
+{"code":"74100","description":"specialised design activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74201"}}
+{"code":"74201","description":"Portrait photographic activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74202"}}
+{"code":"74202","description":"Other specialist photography"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74203"}}
+{"code":"74203","description":"Film processing"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74209"}}
+{"code":"74209","description":"Photographic activities not elsewhere classified"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74300"}}
+{"code":"74300","description":"Translation and interpretation activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74901"}}
+{"code":"74901","description":"Environmental consulting activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74902"}}
+{"code":"74902","description":"Quantity surveying activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74909"}}
+{"code":"74909","description":"Other professional, scientific and technical activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"74990"}}
+{"code":"74990","description":"Non-trading company"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"75000"}}
+{"code":"75000","description":"Veterinary activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77110"}}
+{"code":"77110","description":"Renting and leasing of cars and light motor vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77120"}}
+{"code":"77120","description":"Renting and leasing of trucks and other heavy vehicles"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77210"}}
+{"code":"77210","description":"Renting and leasing of recreational and sports goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77220"}}
+{"code":"77220","description":"Renting of video tapes and disks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77291"}}
+{"code":"77291","description":"Renting and leasing of media entertainment equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77299"}}
+{"code":"77299","description":"Renting and leasing of other personal and household goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77310"}}
+{"code":"77310","description":"Renting and leasing of agricultural machinery and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77320"}}
+{"code":"77320","description":"Renting and leasing of construction and civil engineering machinery and equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77330"}}
+{"code":"77330","description":"Renting and leasing of office machinery and equipment (including computers)"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77341"}}
+{"code":"77341","description":"Renting and leasing of passenger water transport equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77342"}}
+{"code":"77342","description":"Renting and leasing of freight water transport equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77351"}}
+{"code":"77351","description":"Renting and leasing of air passenger transport equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77352"}}
+{"code":"77352","description":"Renting and leasing of freight air transport equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77390"}}
+{"code":"77390","description":"Renting and leasing of other machinery, equipment and tangible goods n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"77400"}}
+{"code":"77400","description":"Leasing of intellectual property and similar products, except copyright works"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"78101"}}
+{"code":"78101","description":"Motion picture, television and other theatrical casting activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"78109"}}
+{"code":"78109","description":"Other activities of employment placement agencies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"78200"}}
+{"code":"78200","description":"Temporary employment agency activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"78300"}}
+{"code":"78300","description":"Human resources provision and management of human resources functions"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"79110"}}
+{"code":"79110","description":"Travel agency activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"79120"}}
+{"code":"79120","description":"Tour operator activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"79901"}}
+{"code":"79901","description":"Activities of tourist guides"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"79909"}}
+{"code":"79909","description":"Other reservation service activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"80100"}}
+{"code":"80100","description":"Private security activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"80200"}}
+{"code":"80200","description":"Security systems service activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"80300"}}
+{"code":"80300","description":"Investigation activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81100"}}
+{"code":"81100","description":"Combined facilities support activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81210"}}
+{"code":"81210","description":"General cleaning of buildings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81221"}}
+{"code":"81221","description":"Window cleaning services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81222"}}
+{"code":"81222","description":"Specialised cleaning services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81223"}}
+{"code":"81223","description":"Furnace and chimney cleaning services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81229"}}
+{"code":"81229","description":"Other building and industrial cleaning activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81291"}}
+{"code":"81291","description":"Disinfecting and exterminating services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81299"}}
+{"code":"81299","description":"Other cleaning services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"81300"}}
+{"code":"81300","description":"Landscape service activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82110"}}
+{"code":"82110","description":"Combined office administrative service activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82190"}}
+{"code":"82190","description":"Photocopying, document preparation and other specialised office support activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82200"}}
+{"code":"82200","description":"Activities of call centres"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82301"}}
+{"code":"82301","description":"Activities of exhibition and fair organisers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82302"}}
+{"code":"82302","description":"Activities of conference organisers"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82911"}}
+{"code":"82911","description":"Activities of collection agencies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82912"}}
+{"code":"82912","description":"Activities of credit bureaus"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82920"}}
+{"code":"82920","description":"Packaging activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"82990"}}
+{"code":"82990","description":"Other business support service activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84110"}}
+{"code":"84110","description":"General public administration activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84120"}}
+{"code":"84120","description":"Regulation of health care, education, cultural and other social services, not incl. social security"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84130"}}
+{"code":"84130","description":"Regulation of and contribution to more efficient operation of businesses"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84210"}}
+{"code":"84210","description":"Foreign affairs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84220"}}
+{"code":"84220","description":"Defence activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84230"}}
+{"code":"84230","description":"Justice and judicial activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84240"}}
+{"code":"84240","description":"Public order and safety activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84250"}}
+{"code":"84250","description":"Fire service activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"84300"}}
+{"code":"84300","description":"Compulsory social security activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85100"}}
+{"code":"85100","description":"Pre-primary education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85200"}}
+{"code":"85200","description":"Primary education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85310"}}
+{"code":"85310","description":"General secondary education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85320"}}
+{"code":"85320","description":"Technical and vocational secondary education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85410"}}
+{"code":"85410","description":"Post-secondary non-tertiary education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85421"}}
+{"code":"85421","description":"First-degree level higher education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85422"}}
+{"code":"85422","description":"Post-graduate level higher education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85510"}}
+{"code":"85510","description":"Sports and recreation education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85520"}}
+{"code":"85520","description":"Cultural education"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85530"}}
+{"code":"85530","description":"Driving school activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85590"}}
+{"code":"85590","description":"Other education n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"85600"}}
+{"code":"85600","description":"Educational support services"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"86101"}}
+{"code":"86101","description":"Hospital activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"86102"}}
+{"code":"86102","description":"Medical nursing home activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"86210"}}
+{"code":"86210","description":"General medical practice activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"86220"}}
+{"code":"86220","description":"Specialists medical practice activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"86230"}}
+{"code":"86230","description":"Dental practice activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"86900"}}
+{"code":"86900","description":"Other human health activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"87100"}}
+{"code":"87100","description":"Residential nursing care facilities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"87200"}}
+{"code":"87200","description":"Residential care activities for learning difficulties, mental health and substance abuse"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"87300"}}
+{"code":"87300","description":"Residential care activities for the elderly and disabled"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"87900"}}
+{"code":"87900","description":"Other residential care activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"88100"}}
+{"code":"88100","description":"Social work activities without accommodation for the elderly and disabled"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"88910"}}
+{"code":"88910","description":"Child day-care activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"88990"}}
+{"code":"88990","description":"Other social work activities without accommodation n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"90010"}}
+{"code":"90010","description":"Performing arts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"90020"}}
+{"code":"90020","description":"Support activities to performing arts"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"90030"}}
+{"code":"90030","description":"Artistic creation"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"90040"}}
+{"code":"90040","description":"Operation of arts facilities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"91011"}}
+{"code":"91011","description":"Library activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"91012"}}
+{"code":"91012","description":"Archives activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"91020"}}
+{"code":"91020","description":"Museums activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"91030"}}
+{"code":"91030","description":"Operation of historical sites and buildings and similar visitor attractions"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"91040"}}
+{"code":"91040","description":"Botanical and zoological gardens and nature reserves activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"92000"}}
+{"code":"92000","description":"Gambling and betting activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93110"}}
+{"code":"93110","description":"Operation of sports facilities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93120"}}
+{"code":"93120","description":"Activities of sport clubs"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93130"}}
+{"code":"93130","description":"Fitness facilities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93191"}}
+{"code":"93191","description":"Activities of racehorse owners"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93199"}}
+{"code":"93199","description":"Other sports activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93210"}}
+{"code":"93210","description":"Activities of amusement parks and theme parks"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"93290"}}
+{"code":"93290","description":"Other amusement and recreation activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"94110"}}
+{"code":"94110","description":"Activities of business and employers membership organizations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"94120"}}
+{"code":"94120","description":"Activities of professional membership organizations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"94200"}}
+{"code":"94200","description":"Activities of trade unions"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"94910"}}
+{"code":"94910","description":"Activities of religious organizations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"94920"}}
+{"code":"94920","description":"Activities of political organizations"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"94990"}}
+{"code":"94990","description":"Activities of other membership organizations n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95110"}}
+{"code":"95110","description":"Repair of computers and peripheral equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95120"}}
+{"code":"95120","description":"Repair of communication equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95210"}}
+{"code":"95210","description":"Repair of consumer electronics"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95220"}}
+{"code":"95220","description":"Repair of household appliances and home and garden equipment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95230"}}
+{"code":"95230","description":"Repair of footwear and leather goods"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95240"}}
+{"code":"95240","description":"Repair of furniture and home furnishings"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95250"}}
+{"code":"95250","description":"Repair of watches, clocks and jewellery"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"95290"}}
+{"code":"95290","description":"Repair of personal and household goods n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"96010"}}
+{"code":"96010","description":"Washing and (dry-)cleaning of textile and fur products"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"96020"}}
+{"code":"96020","description":"Hairdressing and other beauty treatment"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"96030"}}
+{"code":"96030","description":"Funeral and related activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"96040"}}
+{"code":"96040","description":"Physical well-being activities"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"96090"}}
+{"code":"96090","description":"Other service activities n.e.c."}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"97000"}}
+{"code":"97000","description":"Activities of households as employers of domestic personnel"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"98000"}}
+{"code":"98000","description":"Residents property management"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"98100"}}
+{"code":"98100","description":"Undifferentiated goods-producing activities of private households for own use"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"98200"}}
+{"code":"98200","description":"Undifferentiated service-producing activities of private households for own use"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"99000"}}
+{"code":"99000","description":"Activities of extraterritorial organizations and bodies"}
+{"index":{"_index":"sic-search","_type":"sic-code","_id":"99999"}}
+{"code":"99999","description":"Dormant Company"}

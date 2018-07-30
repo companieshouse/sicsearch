@@ -5,9 +5,13 @@
         "description_synonym_filter": {
           "type": "synonym", 
           "synonyms": [ 
-            "seller,sell,selling,sale,bulk=>wholesale",
-            "shop,selling,store,high street store=>retail",
-            "chair,chairs,table,sofa,bed=>furniture"
+            "build,make,maker,invent,produce,construct,assemble,create,engineer=>manufacture",
+            "fix,mend,service,renovate,rebuild,refit,reconstruct,recondition=>repair",
+            "trains=>locomotive",
+            "rocket,spaceship=>spacecraft",
+            "drink,coffee,tea,alcohol=>beverage",
+            "print,printer=>printing",
+            "shoe,shoes,trainers=>footwear"
           ]
         }
       },

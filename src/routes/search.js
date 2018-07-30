@@ -3,7 +3,8 @@ const s = require("../search");
 const search = (req, res) => {
   s.search(req.query.q)
     .then(results => {
-      res.json(results);
+      const data = results.hits.hits.map(({ _source }) => _source);
+      res.json(data);
     })
     .catch(() => {
       res.status(500).send("Error");

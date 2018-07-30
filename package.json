@@ -2,7 +2,7 @@
   "name": "sicsearchjs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start:dev": "./node_modules/.bin/nodemon server.js",
     "fmt": "./node_modules/.bin/prettier --write \"{server.js,src/**/*.js}\""
@@ -15,7 +15,8 @@
     "express": "^4.16.3"
   },
   "devDependencies": {
+    "csv-parse": "^2.5.0",
     "nodemon": "^1.18.3",
-    "prettier": "^1.13.7"
+    "prettier": "^1.14.0"
   }
 }
