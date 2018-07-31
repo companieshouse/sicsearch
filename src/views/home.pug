@@ -1,0 +1,30 @@
+extends base
+
+block content
+  H1(class="govuk-heading-xl") SIC Search
+
+  p.govuk-body-l
+    | A proof of concept for investigating how Elasticsearch might provide a solution for intelligent searching of
+    | descriptions to official SIC codes
+
+  form
+    .govuk-form-group
+      label(class="govuk-label", for="search-term") Search term
+      span.govuk-hint
+        | Type your main business activity e.g. "I sell shoes"
+      input(class="govuk-input", name="search-term", id="search-term", type="text", value=searchTerm || "")
+
+  if results
+    table.govuk-table
+      thead.govuk-table__head
+        tr.govuk-table__row
+         th.govuk-table__header Code
+         th.govuk-table__header Description
+      tbody.govuk-table__body
+        each result in results
+          tr.govuk-table__row
+            th.govuk-table__header #{result.code}
+            td.govuk-table__cell #{result.description}
+
+
+

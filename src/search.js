@@ -21,7 +21,7 @@ const search = term => {
         index: "sic-search",
         type: "sic-code",
         body: {
-          min_score: 0.2,
+          min_score: 5,
           query: {
             match: {
               description: term

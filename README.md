@@ -3,6 +3,8 @@ SIC Search
 
 Proof of concept on building a more intelligent Standard Industrial Classification (SIC) search service. 
 
+![Screenshot](screenshot.png)
+
 #### Environment variables
 
 | Key | Required | Example |
@@ -24,9 +26,11 @@ _If you are running on a Mac and use [direnv](https://direnv.net/) to manage pro
 
     make es-setup
 
-#### Run in dev mode to auto restart after source changes
+#### Run express and webpack build
 
     npm run start:dev
+    npm run static:build
+    
 
 #### Format the code according to [prettier](https://prettier.io) rules.
 

@@ -5,18 +5,34 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "./node_modules/.bin/nodemon server.js",
-    "fmt": "./node_modules/.bin/prettier --write \"{server.js,src/**/*.js}\""
+    "static:dev": "./node_modules/.bin/webpack-dev-server --mode development --hot --inline",
+    "fmt": "./node_modules/.bin/prettier --write \"{server.js,src/**/*.js}\"",
+    "build:static": "webpack --mode production -o build/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "elasticsearch": "^15.1.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "govuk-frontend": "^1.2.0",
+    "jquery": "^3.3.1",
+    "pug": "^2.0.3"
   },
   "devDependencies": {
+    "css-loader": "^1.0.0",
     "csv-parse": "^2.5.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^1.1.11",
+    "image-loader": "0.0.1",
+    "node-sass": "^4.9.2",
     "nodemon": "^1.18.3",
-    "prettier": "^1.14.0"
+    "prettier": "^1.14.0",
+    "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
   }
 }
